@@ -7,6 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Webpages
+### Home Page
+![Home Page](./Homepage.jpg)
+This page is what the homepage of my website looks like in it's first state. It is still quite plain and I'm using a layout design from tailwind.
+
+### Blog Page
+![BLog Page](./Blog%20page.jpg)
+This is the blog page where I may post some stuff if I'm able to code it. It is also using a layout design from tailwind.
+
+### About Page
+![About Page](./About%20Page.jpg)
+This is the about page where I may post some stuff about muyself. It is also using a layout design from tailwind.
+
+### Contact Page
+![Contact Page](./Contact.jpg)
+This is the contact page where perhaps I will share my social media links and information for people to get in contact with me. It is also using a layout design from tailwind.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
