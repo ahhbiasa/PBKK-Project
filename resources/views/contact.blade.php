@@ -5,8 +5,5 @@
         <li>
             <a href="https://instagram.com/ahh.biasa">Instagram</a>
         </li>
-        <li>
-            <a href="https://x.com/IndoBoii">X</a>
-        </li>
     </ul>
   </x-layout>
