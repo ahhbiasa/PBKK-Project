@@ -8,7 +8,7 @@
     </h2>
     
     <div class="text-base text-gray-500">
-      <a href="#">{{ $post['author'] }}</a> | 1st January 2024
+      <a href="#">{{ $post['author'] }}</a> | {{ $post->created_at->diffForHumans() }}
     </div>
     
     <p class="my-4 font-light">
