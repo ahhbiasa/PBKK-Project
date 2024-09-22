@@ -37,6 +37,33 @@ The image above is what the web page of article 1 loooks like. The text is compl
 ![article 2](./screenshots/Week3/Single%20Post2.jpg)
 Same with the article 1 web page, article 2 also has the complete text compared to the shorter text in the blog page.
 
+## Project Webpages Week 4
+### Updated Blog Page
+![BLog Page V3](./screenshots/Week4/BlogPageWeek4.jpg)
+Similar to the previous week, the only updated page this week was the blog page. We've added multiple articles to the blog page with readable text. 
+
+### Article 1
+![article1](./screenshots/Week4/Article1PageWeek4.jpg)
+
+### Article 2
+![article2](./screenshots/Week4/Article2PageWeek4.jpg)
+
+### Article 3
+![article3](./screenshots/Week4/Article3PageWeek4.jpg)
+
+### Article 4
+![article4](./screenshots/Week4/Article4PageWeek4.jpg)
+
+### Article 5
+![article5](./screenshots/Week4/Article5PageWeek4.jpg)
+
+### Difference in Database
+Visually there are no differences besides the text, but behind it all is the difference in the code. 
+
+![article5](./screenshots/Week4/SQLiteDatabase.jpg)
+
+Using techniques such as `database`, `migration`, `Eloquent ORM`, and `Post Model`. We can now dynamically insert data using `php artisan tinker` into the databse on `tableplus`.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
