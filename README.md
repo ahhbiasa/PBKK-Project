@@ -9,33 +9,60 @@
 
 ## Project Webpages Week 1-2
 ### Home Page
-![Home Page](./Homepage.jpg)
+![Home Page](./screenshots/Week1&2/Homepage.jpg)
 This page is what the homepage of my website looks like in it's first state. It is still quite plain and I'm using a layout design from tailwind.
 
 ### Blog Page
-![BLog Page](./Blog%20page.jpg)
+![BLog Page](./screenshots/Week1&2/Blog%20page.jpg)
 This is the blog page where I may post some stuff if I'm able to code it. It is also using a layout design from tailwind.
 
 ### About Page
-![About Page](./About%20Page.jpg)
+![About Page](./screenshots/Week1&2/About%20Page.jpg)
 This is the about page where I may post some stuff about muyself. It is also using a layout design from tailwind.
 
 ### Contact Page
-![Contact Page](./Contact.jpg)
+![Contact Page](./screenshots/Week1&2/Contact.jpg)
 This is the contact page where perhaps I will share my social media links and information for people to get in contact with me. It is also using a layout design from tailwind.
 
 ## Project Webpages Week 3
 ### Updated Blog Page
-![BLog Page V2](./Blog%20Page%20V2.jpg)
+![BLog Page V2](./screenshots/Week3/Blog%20Page%20V2.jpg)
 The only updated page this week was the blog page, we've added multiple articles to the blog page. These articles can then be opened by clicking the `Read more` link or the `title of the article`. The articles will then be viewed in their own seperate webapges like in the following screenshots
 
 ### Article 1 web page
-![article 1](./Single%20Post.jpg)
+![article 1](./screenshots/Week3/Single%20Post.jpg)
 The image above is what the web page of article 1 loooks like. The text is complete compared to the previewd and shorter version in the blog page.
 
 ### Article 2 web page
-![article 2](./Single%20Post2.jpg)
+![article 2](./screenshots/Week3/Single%20Post2.jpg)
 Same with the article 1 web page, article 2 also has the complete text compared to the shorter text in the blog page.
+
+## Project Webpages Week 4
+### Updated Blog Page
+![BLog Page V3](./screenshots/Week4/BlogPageWeek4.jpg)
+Similar to the previous week, the only updated page this week was the blog page. We've added multiple articles to the blog page with readable text. 
+
+### Article 1
+![article1](./screenshots/Week4/Article1PageWeek4.jpg)
+
+### Article 2
+![article2](./screenshots/Week4/Article2PageWeek4.jpg)
+
+### Article 3
+![article3](./screenshots/Week4/Article3PageWeek4.jpg)
+
+### Article 4
+![article4](./screenshots/Week4/Article4PageWeek4.jpg)
+
+### Article 5
+![article5](./screenshots/Week4/Article5PageWeek4.jpg)
+
+### Difference in Database
+Visually there are no differences besides the text, but behind it all is the difference in the code. 
+
+![article5](./screenshots/Week4/SQLiteDatabase.jpg)
+
+Using techniques such as `database`, `migration`, `Eloquent ORM`, and `Post Model`. We can now dynamically insert data using `php artisan tinker` into the databse on `tableplus`.
 
 ## About Laravel
 
