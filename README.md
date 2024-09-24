@@ -64,6 +64,25 @@ Visually there are no differences besides the text, but behind it all is the dif
 
 Using techniques such as `database`, `migration`, `Eloquent ORM`, and `Post Model`. We can now dynamically insert data using `php artisan tinker` into the databse on `tableplus`.
 
+## Week 5
+### Updated Blog Page
+![BLog Page V4](./screenshots/Week5/BlogPageWeek5.jpg)
+
+### Articles By Feature
+![Articles By](./screenshots/Week5/articlesby.jpg)
+
+### Category 1
+![Data Structures](./screenshots/Week5/ds.jpg)
+
+### Category 2
+![Machine Learning](./screenshots/Week5/ml.jpg)
+
+### Category 3
+![UIUX](./screenshots/Week5/uiux.jpg)
+
+### Category 4
+![Web Design](./screenshots/Week5/webdesign.jpg)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
