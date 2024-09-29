@@ -64,6 +64,30 @@ Visually there are no differences besides the text, but behind it all is the dif
 
 Using techniques such as `database`, `migration`, `Eloquent ORM`, and `Post Model`. We can now dynamically insert data using `php artisan tinker` into the databse on `tableplus`.
 
+## Week 5
+### Updated Blog Page
+![BLog Page V4](./screenshots/Week5/BlogPageWeek5.jpg)
+Similar to the previous week, the only updated page this week was the blog page. We've added many more articles using using `database seeders`. This makes it so we can insert specified amounts of certain tables with already preset functions from laravel such as inserting sentences, local or international names, usernames, hashed passwords, etc. `Databse seeders` helps alot when you want to insert lots of fake data to see if your database works and how it may be displayed on yout website.
+
+### "Articles By" Feature
+![Articles By](./screenshots/Week5/articlesby.jpg)
+There's also a new feature where we can view all articles from a single user. This can be viewed by simply cliking on the username on the article of your choice. This feature sort of acts as the profile of each user that has posted an article.
+
+### Category Feature
+There's also a category feature where we can view articles from specific categories.
+
+### Category 1
+![Data Structures](./screenshots/Week5/ds.jpg)
+
+### Category 2
+![Machine Learning](./screenshots/Week5/ml.jpg)
+
+### Category 3
+![UIUX](./screenshots/Week5/uiux.jpg)
+
+### Category 4
+![Web Design](./screenshots/Week5/webdesign.jpg)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
